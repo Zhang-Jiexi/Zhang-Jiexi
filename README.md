@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhang-Jiexi
+- 👋 Hi, I’m @Jackie Zhang(Zhang Jiexi)
 - I come from China. I'm a senior high school student.
 - 👀 I’m interested in deep learning and machine learning.
 - 🌱 I’m currently learning deep learning, machine learning and sofrware engineering.
